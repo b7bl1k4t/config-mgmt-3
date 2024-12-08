@@ -1,0 +1,5 @@
+﻿AB: "localhost"
+AC: 5432
+A9: "admin"
+AT: "password123"
+AF: [ "db1", "db2", "db3" ]

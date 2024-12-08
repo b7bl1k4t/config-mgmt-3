@@ -1,0 +1,4 @@
+﻿app_name: "MyApp"
+version: 1.2
+features: [ "auth", "database", "logging" ]
+debug: true
